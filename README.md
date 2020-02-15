@@ -15,9 +15,10 @@ Precisa apenas do ```node``` e do ```npm```.
 Com o node e o npm instalados, basta usar:
 
 ```
+npm i 
 npm start <nome_do_arquivo.js>
 ```
-Pois o projeto conta com o nodemon para subir um servidor local em js. Assim, ao salvar o arquivo para algum teste, ele executa novamente o arquivo (hot reload).
+Pois o projeto conta com o nodemon para subir um servidor local em js. Assim, ao salvar o arquivo para algum teste, ele executa novamente o arquivo (live reload/ hot reload).
 
 ### Arquivos
 
